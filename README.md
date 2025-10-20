@@ -4,7 +4,7 @@ Projeto desenvolvido para a conclusão do curso de Swift, HackaTruck.
 
 ## Descrição
 
-Place.io é um aplicativo iOS desenvolvido em SwiftUI que permite aos usuários descobrir e interagir com locais de interesse. Inspirado em interfaces de swipe como o Tinder, o app oferece uma experiência intuitiva para explorar restaurantes, pontos turísticos e outros estabelecimentos.
+Place.io é um aplicativo iOS desenvolvido em SwiftUI que permite aos usuários descobrir e interagir com locais de interesse. Inspirado em interfaces de swipe como o Enjoy, o app oferece uma experiência intuitiva para explorar restaurantes, pontos turísticos e outros estabelecimentos.
 
 ## Funcionalidades
 
@@ -47,7 +47,7 @@ Place.io é um aplicativo iOS desenvolvido em SwiftUI que permite aos usuários 
 ## Uso
 
 1. Abra o aplicativo.
-2. Na aba "Tinder", deslize os cards para interagir com os locais.
+2. Na aba "Enjoy", deslize os cards para interagir com os locais.
 3. Use a aba "List" para ver todos os locais em uma lista.
 4. Na aba "Info", veja detalhes de um local específico.
 5. Na aba "Comments", leia e adicione comentários.

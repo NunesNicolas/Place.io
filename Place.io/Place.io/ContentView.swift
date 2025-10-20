@@ -18,7 +18,7 @@ struct ContentView: View {
                     
                         EnjoyView()
                         .tabItem {
-                            Label("Tinder", systemImage: "rectangle.portrait.and.arrow.forward.fill")
+                            Label("Enjoy", systemImage: "rectangle.portrait.and.arrow.forward.fill")
                           }
                     
                     ListView()
