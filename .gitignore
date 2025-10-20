@@ -1,0 +1,102 @@
+# =========================
+# macOS
+# =========================
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Icon must end with two \r
+Icon
+
+# Thumbnails
+._*
+
+# Files that might appear on external disk
+.Spotlight-V100
+.Trashes
+
+# =========================
+# Xcode
+# =========================
+## User settings
+xcuserdata/
+*.xcuserstate
+*.xccheckout
+
+## Build generated
+build/
+DerivedData/
+*.o
+*.linkfilelist
+*.hmap
+*.ipa
+*.dSYM.zip
+*.dSYM
+
+## Various settings
+*.mode1v3
+*.mode2v3
+*.perspectivev3
+*.pbxuser
+!default.pbxuser
+!default.mode1v3
+!default.mode2v3
+!default.perspectivev3
+
+## Workspace and schemes
+*.xcworkspace
+xcshareddata/
+.xcscmblueprint
+
+# =========================
+# Swift Package Manager
+# =========================
+.build/
+Packages/
+.swiftpm/xcode/package.xcworkspace/
+
+# =========================
+# CocoaPods
+# =========================
+Pods/
+Podfile.lock
+
+# =========================
+# Carthage
+# =========================
+Carthage/Build/
+
+# =========================
+# Fastlane
+# =========================
+fastlane/report.xml
+fastlane/Preview.html
+fastlane/screenshots
+fastlane/test_output
+
+# =========================
+# SwiftPM artifacts
+# =========================
+.swiftpm/
+Package.resolved
+
+# =========================
+# Others
+# =========================
+*.log
+*.tmp
+*.swp
+*.swo
+*.lock
+*.bak
+
+# =========================
+# Playground files
+# =========================
+timeline.xctimeline
+playground.xcworkspace
+
+# =========================
+# Firebase / Google Services (optional)
+# =========================
+GoogleService-Info.plist
